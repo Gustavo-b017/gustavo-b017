@@ -76,7 +76,7 @@ E se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em co
 <div align="center"> 
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gustavo-b017)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bezerra-assum%C3%A7%C3%A3o-829202289/)[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.assumcao/)
-[![DIO](https://img.shields.io/badge/Meu_perfil_da_DIO-9F966D?style=for-the-badge)](https://web.dio.me/users/gustavo_estudo017) 
+[![DIO](https://img.shields.io/badge/DIO-9F966D?style=for-the-badge)](https://web.dio.me/users/gustavo_estudo017) 
 
 ## Outras Habilidades
 - 🌐 Nível de inglês - Intermediario.
