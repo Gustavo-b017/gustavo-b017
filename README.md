@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-<img width='100%' src="./perfil.jfif">
+<img width='100%' src="https://raw.githubusercontent.com/Gustavo-b017/gustavo-b017/refs/heads/main/perfil.jfif">
 
 </br>
 
@@ -55,9 +55,9 @@ A maioria de meus projetos s√£o uma mistura de coisas que eu criei por conta pr√
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" src="./minhocaLight.svg">
-  <source media="(prefers-color-scheme: light)" src="./minhocaDark.svg">
-  <img alt="Mostra uma cobra comendo commits" src="./minhocaDark.svg">
+  <source media="(prefers-color-scheme: dark)" src="https://raw.githubusercontent.com/Gustavo-b017/gustavo-b017/98fa7b39134d591bc1a8aab4d5b65bd5c97ec1b9/minhocaLight.svg">
+  <source media="(prefers-color-scheme: light)" src="https://raw.githubusercontent.com/Gustavo-b017/gustavo-b017/98fa7b39134d591bc1a8aab4d5b65bd5c97ec1b9/minhocaDark.svg">
+  <img alt="Mostra uma cobra comendo commits" src="https://raw.githubusercontent.com/Gustavo-b017/gustavo-b017/98fa7b39134d591bc1a8aab4d5b65bd5c97ec1b9/minhocaDark.svg">
 </picture>
 
 
